@@ -9,4 +9,4 @@
 - Google[GEMINI](https://gemini.google.com/app?hl=zh-TW)
 - Copilot 
 
-### prompt提示詞
+### [prompt提示詞1](prompt1.md)
