@@ -8,3 +8,5 @@
 - [ChatGPT](https://chatgpt.com/)
 - Google[GEMINI](https://gemini.google.com/app?hl=zh-TW)
 - Copilot 
+
+### prompt提示詞
